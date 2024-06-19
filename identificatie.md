@@ -1,6 +1,6 @@
 ---
 layout: page
-title: identificatie
+title: Identificatie
 parent: algemeen
 nav_order: 1
 ---
