@@ -1,6 +1,6 @@
 ---
 layout: page
-title: documentatie
+title: Documentatie
 parent: Algemene Registratie
 nav_order: 9
 ---
