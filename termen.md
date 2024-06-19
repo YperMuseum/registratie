@@ -1,6 +1,6 @@
 ---
 layout: page
-title: trefwoorden
+title: Trefwoorden
 parent: Algemene Registratie
 nav_order: 4
 ---
