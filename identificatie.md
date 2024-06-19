@@ -1,7 +1,7 @@
 ---
 layout: page
 title: identificatie
-parent: Algemene Registratie
+parent: algemeen
 nav_order: 1
 ---
 
