@@ -39,7 +39,7 @@ Vul in de documentatiefiche de volgende velden verder aan:
 - Auteur
 - Signatuur
 
-![image info](images/documentatie3.png)
+![image info](images/documentatie1.png)
 ![image info](images/documentatie4.png)
 
 Klik bovenaan de fiche op de diskette om de documentatiefiche op te slaan en klik het werk aan in de tabel om het toe te voegen aan het record.
