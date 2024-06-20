@@ -30,3 +30,22 @@ Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
 
 **2. De toe te voegen documentatie moet nog aangevuld worden in de bibliotheekcatalogus van Axiell**
 
+Zet de volledige titel in het veldje *titel*. Wanneer je klinkt op een ander veld zal, gezien de publicatie nog niet aanwezig is in de bibliotheekcatalogus van Axiell, er een pop-up venster verschijnen. Kies in de rechterkolom voor **Aanmaken in** Boeken en klik op **Creëer en bewerk link** 
+
+![image info](images/documentatie2.png)
+
+Vul in de documentatiefiche de volgende velden verder aan:
+- Materiaalsoort
+- Auteur
+- Signatuur
+
+![image info](images/documentatie3.png)
+![image info](images/documentatie4.png)
+
+Klik bovenaan de fiche op de diskette om de documentatiefiche op te slaan en klik het werk aan in de tabel om het toe te voegen aan het record.
+Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
+- Enkele pagina: p. X
+- Meerdere pagina's: p. X-X
+*(vb: p. 487 of p. 15-18)*
+
+
