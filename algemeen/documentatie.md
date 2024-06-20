@@ -12,7 +12,7 @@ Indien het collectiestuk voorkomt of besproken wordt in een publicatie vullen we
 | Titel          | Exacte titel van het werk                                                                                                                          |
 | Auteur         | Achternaam, Voornaam                                                                                                                               |
 | Signatuur      | Standplaatscode WISE (indien aanwezig)                                                                                                             |
-| Materiaalsoort | Keuze uit: - boek\ - tijdschrift\ - jaarboek\ - artikel\ - brochure\ - krant\ - tentoonstellingscatalogus\ - veilingscatalogus\ - documentatiemap\ |
+| Materiaalsoort | Keuze uit: - boek - tijdschrift - jaarboek - artikel - brochure - krant - tentoonstellingscatalogus - veilingscatalogus - documentatiemap |
 | Pagina         | Paginanummer(s) waar het collectiestuk voorkomt                                                                                                    |
 
 **1. De toe te voegen documentatie zit reeds in de bibliotheekcatalogus van Axiell**
