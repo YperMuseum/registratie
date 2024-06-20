@@ -21,7 +21,7 @@ Indien het collectiestuk voorkomt of besproken wordt in een publicatie vullen we
 
 Wanneer je de titel intypt krijg je een lijst met opties. Staat het werk reeds hiertussen, klik dit aan. Automatisch worden de velden Auteur en Signatuur aangevuld. 
 
-![image info](./images/documentatie.png)
+![image info](images/documentatie.png)
 
 Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
 - Enkele pagina: p. X
