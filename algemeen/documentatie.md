@@ -7,13 +7,13 @@ nav_order: 5
 
 Indien het collectiestuk voorkomt of besproken wordt in een publicatie vullen we deze aan onder het tabblad Documentatie. We vullen volgende zaken aan:
 
-| Veld           | Inhoud                                                                                                                                             |
-|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Titel          | Exacte titel van het werk                                                                                                                          |
-| Auteur         | Achternaam, Voornaam                                                                                                                               |
-| Signatuur      | Standplaatscode WISE (indien aanwezig)                                                                                                             |
-| Materiaalsoort | Keuze uit: - boek<br> - tijdschrift - jaarboek - artikel - brochure - krant - tentoonstellingscatalogus - veilingscatalogus - documentatiemap |
-| Pagina         | Paginanummer(s) waar het collectiestuk voorkomt                                                                                                    |
+| Veld           | Inhoud                                                                                                                                                                            |
+|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Titel          | Exacte titel van het werk                                                                                                                                                         |
+| Auteur         | Achternaam, Voornaam                                                                                                                                                              |
+| Signatuur      | Standplaatscode WISE (indien aanwezig)                                                                                                                                            |
+| Materiaalsoort | Keuze uit:<br> - boek<br> - tijdschrift<br> - jaarboek<br> - artikel<br> - brochure<br> - krant<br> - tentoonstellingscatalogus<br> - veilingscatalogus<br> - documentatiemap<br> |
+| Pagina         | Paginanummer(s) waar het collectiestuk voorkomt                                                                                                                                   |
 
 **1. De toe te voegen documentatie zit reeds in de bibliotheekcatalogus van Axiell**
 
