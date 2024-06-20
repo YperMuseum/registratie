@@ -12,7 +12,7 @@ Indien het collectiestuk voorkomt of besproken wordt in een publicatie vullen we
 | Veld           | Inhoud                                                                                                                                                                            |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Titel          | Exacte titel van het werk                                                                                                                                                         |
-| Auteur         | Achternaam, Voornaam                                                                                                                                                              |
+| Auteur(s)      | Achternaam, Voornaam                                                                                                                                                              |
 | Signatuur      | Standplaatscode WISE (indien aanwezig)                                                                                                                                            |
 | Materiaalsoort | Keuze uit:<br> - boek<br> - tijdschrift<br> - jaarboek<br> - artikel<br> - brochure<br> - krant<br> - tentoonstellingscatalogus<br> - veilingscatalogus<br> - documentatiemap<br> |
 | Pagina         | Paginanummer(s) waar het collectiestuk voorkomt                                                                                                                                   |
@@ -35,9 +35,15 @@ Zet de volledige titel in het veldje *titel*. Wanneer je klinkt op een ander vel
 ![image info](images/documentatie2.png)
 
 Vul in de documentatiefiche de volgende velden verder aan:
-- Materiaalsoort
-- Auteur
-- Signatuur
+- **Materiaalsoort**:
+Kies voor de correcte optie uit het dropdown menu.
+
+- **Auteur**:
+Vul de auteur aan (achternaam, voornaam). Indien de auteur nog niet aanwezig is in de personendatabank van Adlib zal er een pop-up venster verschijnen. Klik in de rechterkolom op **Accepteer link** en selecteer de persoon in de tabel om deze toe te voegen. 
+
+- **Signatuur**
+Als de publicatie aanwezig is in de bibliotheek, vul dan bij signatuur de plaatscode uit WISE aan.
+*(vb: IP 1332)*
 
 ![image info](images/documentatie1.png)
 ![image info](images/documentatie4.png)
