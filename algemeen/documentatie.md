@@ -5,6 +5,8 @@ parent: Algemene Registratie
 nav_order: 5
 ---
 
+#**Documentatie**#
+
 Indien het collectiestuk voorkomt of besproken wordt in een publicatie vullen we deze aan onder het tabblad Documentatie. We vullen volgende zaken aan:
 
 | Veld           | Inhoud                                                                                                                                                                            |
