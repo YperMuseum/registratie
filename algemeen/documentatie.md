@@ -50,8 +50,8 @@ Kies voor de correcte optie uit het dropdown menu.
 Vul de auteur aan (achternaam, voornaam). Indien de auteur nog niet aanwezig is in de personendatabank van Adlib zal er een pop-up venster verschijnen. Klik in de rechterkolom op **Accepteer link** en selecteer de persoon in de tabel om deze toe te voegen. 
 
 - **Signatuur**:<br>
-Als de publicatie aanwezig is in de bibliotheek, vul dan bij signatuur de plaatscode uit WISE aan.
-*(vb: IP 1332)*<br>
+Als de publicatie aanwezig is in de bibliotheek, vul dan bij signatuur de plaatscode uit WISE aan. Boeken uit de bibliotheek van het Yper Museum worden altijd voorafgegaan van MS, boeken uit de bibliotheek van het In Flanders Fields Museum worden voorafgegaan van MI.
+*(vb: MS IP 1332)*<br>
 
 ![image info](images/documentatie1.png)
 ![image info](images/documentatie4.png)
