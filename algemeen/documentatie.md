@@ -17,6 +17,15 @@ Indien het collectiestuk voorkomt of besproken wordt in een publicatie vullen we
 | Materiaalsoort | Keuze uit:<br> - boek<br> - tijdschrift<br> - jaarboek<br> - artikel<br> - brochure<br> - krant<br> - tentoonstellingscatalogus<br> - veilingscatalogus<br> - documentatiemap<br> - thesis |
 | Pagina         | Paginanummer(s) waar het collectiestuk voorkomt                                                                                                                                            |
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## **1. De toe te voegen documentatie zit reeds in de bibliotheekcatalogus van Axiell**
 
 Wanneer je de titel intypt krijg je een lijst met opties. Staat het werk reeds hiertussen, klik dit aan. Automatisch worden de velden Auteur en Signatuur aangevuld. 
