@@ -32,6 +32,12 @@ Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
 
 Zet de volledige titel in het veldje *titel*. Wanneer je klinkt op een ander veld zal, gezien de publicatie nog niet aanwezig is in de bibliotheekcatalogus van Axiell, er een pop-up venster verschijnen. Kies in de rechterkolom voor **Aanmaken in** Boeken en klik op **Creëer en bewerk link** 
 
+***Veilingcatalogus***
+Noteer de titel als volgt: 'Veilingcatalogus Naam Veilinghuis Datum Veiling (DD-MM-YYYY)' *(vb: Veilingcatalogus Marc Van de Wiele 6-7/10/2006)* 
+
+***Jaarboek***
+Noteer de titel als volgt: 'Naam Museum Jaarboek Jaar (YYYY)' *(vb: In Flanders Fields Museum Jaarboek 2019)*
+
 ![image info](images/documentatie2.png)
 
 Vul in de documentatiefiche de volgende velden verder aan:
@@ -51,7 +57,12 @@ Als de publicatie aanwezig is in de bibliotheek, vul dan bij signatuur de plaats
 Klik bovenaan de fiche op de diskette om de documentatiefiche op te slaan en klik het werk aan in de tabel om het toe te voegen aan het record.
 Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:<br>
 - Enkele pagina: p. X<br>
-- Meerdere pagina's: p. X-X<br>
-*(vb: p. 487 of p. 15-18)*
+- Meerdere pagina's (oplopend): p. X-X<br>
+*(vb: p. 487 of p. 15-18)*<br>
+- Meerdere pagina's: p. X, p. X-X
+*(vb: p. 38, p. 96-97, p. 158)
+
+Indien er een afbeelding van het collectiestuk aanwezig is in de publicatie, voeg dan ook het nummer van de afbeelding (indien aanwezig) mee. Noteer dit zoals in de publicatie vermeldt staat. *(vb: fig. 1, Afb. 1, nr. 1)*
+
 
 
