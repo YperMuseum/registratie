@@ -30,13 +30,15 @@ Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
 
 **2. De toe te voegen documentatie moet nog aangevuld worden in de bibliotheekcatalogus van Axiell**
 
-Zet de volledige titel in het veldje *titel*. Wanneer je klinkt op een ander veld zal, gezien de publicatie nog niet aanwezig is in de bibliotheekcatalogus van Axiell, er een pop-up venster verschijnen. Kies in de rechterkolom voor **Aanmaken in** Boeken en klik op **Creëer en bewerk link** 
+Zet de volledige titel in het veldje *titel*. <br>
 
-***Veilingcatalogus***
+***Veilingcatalogus***: <br>
 Noteer de titel als volgt: 'Veilingcatalogus Naam Veilinghuis Datum Veiling (DD-MM-YYYY)' *(vb: Veilingcatalogus Marc Van de Wiele 6-7/10/2006)* 
 
-***Jaarboek***
-Noteer de titel als volgt: 'Naam Museum Jaarboek Jaar (YYYY)' *(vb: In Flanders Fields Museum Jaarboek 2019)*
+***Jaarboek***: <br>
+Noteer de titel als volgt: 'Naam Museum Jaarboek Jaar (YYYY)' *(vb: In Flanders Fields Museum Jaarboek 2019)*<br>
+
+Wanneer je klinkt op een ander veld zal, gezien de publicatie nog niet aanwezig is in de bibliotheekcatalogus van Axiell, er een pop-up venster verschijnen. Kies in de rechterkolom voor **Aanmaken in** Boeken en klik op **Creëer en bewerk link** 
 
 ![image info](images/documentatie2.png)
 
