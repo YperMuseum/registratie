@@ -38,7 +38,7 @@ Noteer de titel als volgt: 'Veilingcatalogus Naam Veilinghuis Datum Veiling (DD-
 ***Jaarboek***: <br>
 Noteer de titel als volgt: 'Naam Museum Jaarboek Jaar (YYYY)' *(vb: In Flanders Fields Museum Jaarboek 2019)*<br>
 
-Wanneer je klinkt op een ander veld zal, gezien de publicatie nog niet aanwezig is in de bibliotheekcatalogus van Axiell, er een pop-up venster verschijnen. Kies in de rechterkolom voor **Aanmaken in** Boeken en klik op **Creëer en bewerk link** 
+Wanneer je klinkt op een ander veld zal, gezien de publicatie nog niet aanwezig is in de bibliotheekcatalogus van Axiell, er een pop-up venster verschijnen. Kies in de rechterkolom voor **Aanmaken in Boeken** en klik op **Creëer en bewerk link** 
 
 ![image info](images/documentatie2.png)
 
