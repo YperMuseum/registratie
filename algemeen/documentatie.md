@@ -30,8 +30,8 @@ Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
 - Meerdere pagina's: p. X, p. X-X<br>
 *(vb: p. 38, p. 96-97, p. 158)*
 
-Indien er een afbeelding van het collectiestuk aanwezig is in de publicatie, voeg dan ook het nummer van de afbeelding (indien aanwezig) mee. Noteer dit zoals in de publicatie vermeldt staat. *(vb: fig. 1, Afb. 1, nr. 1)*<br>
-Indien het collectiestuk deeluitmaakt van een veilingscatalogus, vul ook dit nummer aan *(vb: p. 35, nr. 125)*
+Indien er een afbeelding van het collectiestuk aanwezig is in de publicatie, voeg dan ook het nummer van de afbeelding (indien aanwezig) mee. Noteer dit zoals in de publicatie vermeldt staat.<br> *(vb: fig. 1, Afb. 1, nr. 1)*<br>
+Indien het collectiestuk deeluitmaakt van een veilingscatalogus, vul ook dit nummer aan. *(vb: p. 35, nr. 125)*
 
 ## **2. De toe te voegen documentatie moet nog aangevuld worden in de bibliotheekcatalogus van Axiell**
 
@@ -69,8 +69,8 @@ Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:<br
 - Meerdere pagina's: p. X, p. X-X<br>
 *(vb: p. 38, p. 96-97, p. 158)*
 
-Indien er een afbeelding van het collectiestuk aanwezig is in de publicatie, voeg dan ook het nummer van de afbeelding (indien aanwezig) mee. Noteer dit zoals in de publicatie vermeldt staat. *(vb: fig. 1, Afb. 1, nr. 1)*<br>
-Indien het collectiestuk deeluitmaakt van een veilingscatalogus, vul ook dit nummer aan *(vb: p. 35, nr. 125)*
+Indien er een afbeelding van het collectiestuk aanwezig is in de publicatie, voeg dan ook het nummer van de afbeelding (indien aanwezig) mee. Noteer dit zoals in de publicatie vermeldt staat. <br>*(vb: fig. 1, Afb. 1, nr. 1)*<br>
+Indien het collectiestuk deeluitmaakt van een veilingscatalogus, vul ook dit nummer aan. *(vb: p. 35, nr. 125)*
 
 
 
