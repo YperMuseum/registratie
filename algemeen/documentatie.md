@@ -24,9 +24,14 @@ Wanneer je de titel intypt krijg je een lijst met opties. Staat het werk reeds h
 ![image info](images/documentatie.png)
 
 Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
-- Enkele pagina: p. X
-- Meerdere pagina's: p. X-X
-*(vb: p. 487 of p. 15-18)*
+- Enkele pagina: p. X<br>
+- Meerdere pagina's (oplopend): p. X-X<br>
+*(vb: p. 487 of p. 15-18)*<br>
+- Meerdere pagina's: p. X, p. X-X
+*(vb: p. 38, p. 96-97, p. 158)
+
+Indien er een afbeelding van het collectiestuk aanwezig is in de publicatie, voeg dan ook het nummer van de afbeelding (indien aanwezig) mee. Noteer dit zoals in de publicatie vermeldt staat. *(vb: fig. 1, Afb. 1, nr. 1)*
+Indien het collectiestuk deeluitmaakt van een veilingscatalogus, vul ook het nummer aan *(vb: p. 35, nr. 125)*
 
 **2. De toe te voegen documentatie moet nog aangevuld worden in de bibliotheekcatalogus van Axiell**
 
@@ -65,6 +70,7 @@ Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:<br
 *(vb: p. 38, p. 96-97, p. 158)
 
 Indien er een afbeelding van het collectiestuk aanwezig is in de publicatie, voeg dan ook het nummer van de afbeelding (indien aanwezig) mee. Noteer dit zoals in de publicatie vermeldt staat. *(vb: fig. 1, Afb. 1, nr. 1)*
+Indien het collectiestuk deeluitmaakt van een veilingscatalogus, vul ook het nummer aan *(vb: p. 35, nr. 125)*
 
 
 
