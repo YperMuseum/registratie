@@ -17,7 +17,7 @@ Indien het collectiestuk voorkomt of besproken wordt in een publicatie vullen we
 | Materiaalsoort | Keuze uit:<br> - boek<br> - tijdschrift<br> - jaarboek<br> - artikel<br> - brochure<br> - krant<br> - tentoonstellingscatalogus<br> - veilingscatalogus<br> - documentatiemap<br> - thesis |
 | Pagina         | Paginanummer(s) waar het collectiestuk voorkomt                                                                                                                                            |
 
-**1. De toe te voegen documentatie zit reeds in de bibliotheekcatalogus van Axiell**
+## **1. De toe te voegen documentatie zit reeds in de bibliotheekcatalogus van Axiell**
 
 Wanneer je de titel intypt krijg je een lijst met opties. Staat het werk reeds hiertussen, klik dit aan. Automatisch worden de velden Auteur en Signatuur aangevuld. 
 
@@ -33,7 +33,7 @@ Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
 Indien er een afbeelding van het collectiestuk aanwezig is in de publicatie, voeg dan ook het nummer van de afbeelding (indien aanwezig) mee. Noteer dit zoals in de publicatie vermeldt staat. *(vb: fig. 1, Afb. 1, nr. 1)*<br>
 Indien het collectiestuk deeluitmaakt van een veilingscatalogus, vul ook dit nummer aan *(vb: p. 35, nr. 125)*
 
-**2. De toe te voegen documentatie moet nog aangevuld worden in de bibliotheekcatalogus van Axiell**
+## **2. De toe te voegen documentatie moet nog aangevuld worden in de bibliotheekcatalogus van Axiell**
 
 Zet de volledige titel in het veldje *titel*. <br>
 
