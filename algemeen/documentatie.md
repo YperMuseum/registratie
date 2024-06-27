@@ -51,7 +51,8 @@ Indien het collectiestuk deeluitmaakt van een veilingscatalogus, vul ook het vei
 
 ### **1.2 Het werk moet aangevuld worden in de bibliotheekcatalogus van Axiell**
 
-Zet de volledige titel van het werk in het veldje *titel*. Zit het werk in WISE, kopieer dan deze titel. <br>
+- **Titel**:<br>
+Zet de volledige titel van het werk in het veldje *titel*. Zit het werk in WISE, kopieer dan deze titel. Indien de titel start met een lidwoord, vul dit later afzonderlijk aan bij het veldje 'lidwoord'.<br>
 Voor veilingcatalogi en jaarboeken zijn er vaste structuren:
 
 ***Veilingcatalogus***: <br>
@@ -72,7 +73,7 @@ Kies voor de correcte optie uit het dropdown menu.
 Vul de auteur aan (achternaam, voornaam). Indien de auteur nog niet aanwezig is in de personendatabank van Adlib zal er een pop-up venster verschijnen. Klik in de rechterkolom op **Accepteer link** en selecteer de persoon in de tabel om deze toe te voegen. Vul bij auteur aan bij het veldje 'rol auteur'.
 
 - **Signatuur**:<br>
-Als de publicatie aanwezig is in de bibliotheek, vul dan bij signatuur de plaatscode uit WISE aan. Boeken uit de bibliotheek van het Yper Museum worden altijd voorafgegaan van MS, boeken uit de bibliotheek van het In Flanders Fields Museum worden voorafgegaan van MI.
+Als de publicatie aanwezig is in de bibliotheek van het In Flanders Fields Museum of Yper Museum, vul dan bij signatuur de plaatscode uit WISE aan. Boeken uit de bibliotheek van het Yper Museum worden altijd voorafgegaan van MS, boeken uit de bibliotheek van het In Flanders Fields Museum worden voorafgegaan van MI.
 *(vb: MS IP 1332)*<br>
 
 ![image info](images/documentatie1.png)
@@ -89,8 +90,49 @@ Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
 Indien er een afbeelding van het collectiestuk aanwezig is in de publicatie, voeg dan ook het nummer van de afbeelding (indien aanwezig) aan. Noteer dit zoals het in de publicatie staat vermeldt.<br> *(vb: fig. 1, Afb. 1, nr. 1)*<br>
 Indien het collectiestuk deeluitmaakt van een veilingscatalogus, vul ook het veilingnummer aan. *(vb: p. 35, nr. 125)*
 
-## **1. Tijdschriften/Kranten**
+## **2. Tijdschriften/Kranten**
 
+Bij een publicatie in een tijdschrift/krant vullen we volgende gegevens aan onder documentatie:
 
+| Veld           | Inhoud                                                                                                                                                                           |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Titel          | Naam tijdschrift, jaargang, nummer / Naam krant, datum uitgave (DD-MM-YYYY)                                                                                                      |
+| Signatuur      | Standplaatscode WISE (indien aanwezig)                                                                                                                                           |
+| Materiaalsoort | Keuze uit:<br> - krant<br> - artikel<br>                                                                                                                                         |
+| Pagina         | Paginanummer(s) waar het collectiestuk voorkomt                                                                                                                                  |
+
+### **2.1 Het werk zit reeds in de bibliotheekcatalogus van Axiell**
+
+Wanneer je de titel intypt krijg je een lijst met opties. Staat het werk reeds hiertussen, klik dit aan. Automatisch worden de velden Auteur en Signatuur aangevuld. 
+
+![image info](images/documentatie.png)
+
+Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
+- Enkele pagina: p. X<br>
+- Meerdere pagina's (oplopend): p. X-X<br>
+*(vb: p. 15-18)*<br>
+
+### **2.2 Het werk moet aangevuld worden in de bibliotheekcatalogus van Axiell**
+
+- **Titel**:<br>
+Vul de naam van het tijdschrift/krant aan in het veldje *titel*. Indien het tijdschrift/de krant start met een lidwoord, vul dit later afzonderlijk aan bij het veldje 'lidwoord'. Dit doen we als volgt:<br>
+- Tijdschrift: Naam tijdschrift, jaargang, nummer<br>
+*(vb: De Boezingenaar, jg. 32, nr. 3)*<br>
+- Krant: Naam krant, datum uitgave (DD-MM-YYYY)<br>
+*(vb: Le XXe siècle, 05-03-1918)*<br>
+
+- **Materiaalsoort**:<br>
+Kies voor de correcte optie uit het dropdown menu (tijdschrift of krant).
+
+- **Signatuur**:<br>
+Als de publicatie aanwezig is in de bibliotheek van het In Flanders Fields Museum of Yper Museum, vul dan bij signatuur de plaatscode uit WISE aan. Boeken uit de bibliotheek van het Yper Museum worden altijd voorafgegaan van MS, boeken uit de bibliotheek van het In Flanders Fields Museum worden voorafgegaan van MI.
+*(vb: MS IP 1332)*<br>
+
+Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
+- Enkele pagina: p. X<br>
+- Meerdere pagina's (oplopend): p. X-X<br>
+*(vb: p. 15-18)*<br>
+
+## **3. Artikels uit Boek/Tijdschrift/Krant**
 
 
