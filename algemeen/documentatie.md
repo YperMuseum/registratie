@@ -51,7 +51,7 @@ Indien het collectiestuk deeluitmaakt van een veilingscatalogus, vul ook het vei
 
 ### **1.2 Het werk moet aangevuld worden in de bibliotheekcatalogus van Axiell**
 
-Zet de volledige titel van het werk in het veldje *titel*. <br>
+Zet de volledige titel van het werk in het veldje *titel*. Zit het werk in WISE, kopieer dan deze titel. <br>
 Voor veilingcatalogi en jaarboeken zijn er vaste structuren:
 
 ***Veilingcatalogus***: <br>
