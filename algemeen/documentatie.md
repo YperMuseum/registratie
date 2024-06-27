@@ -26,7 +26,7 @@ Indien het collectiestuk voorkomt of besproken wordt in een publicatie vullen we
 {:toc}
 </details>
 
-## **1. De toe te voegen documentatie zit reeds in de bibliotheekcatalogus van Axiell**
+### **1. De toe te voegen documentatie zit reeds in de bibliotheekcatalogus van Axiell**
 
 Wanneer je de titel intypt krijg je een lijst met opties. Staat het werk reeds hiertussen, klik dit aan. Automatisch worden de velden Auteur en Signatuur aangevuld. 
 
