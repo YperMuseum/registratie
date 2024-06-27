@@ -5,6 +5,15 @@ parent: Algemene Registratie
 nav_order: 1
 ---
 
-# **Identificatie** 
+#**Identificatie** 
 
-# *Objectnummer* 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+##**Objectnummer**
