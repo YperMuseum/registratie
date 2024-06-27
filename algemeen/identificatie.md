@@ -5,7 +5,7 @@ parent: Algemene Registratie
 nav_order: 1
 ---
 
-#**Identificatie** 
+# **Identificatie** 
 
 <details open markdown="block">
   <summary>
@@ -16,4 +16,4 @@ nav_order: 1
 {:toc}
 </details>
 
-##**Objectnummer**
+## **Objectnummer**
