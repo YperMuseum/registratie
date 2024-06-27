@@ -46,8 +46,8 @@ Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
 - Meerdere pagina's: p. X, p. X<br>
 *(vb: p. 38, p. 96-97, p. 158)*
 
-Indien er een afbeelding van het collectiestuk aanwezig is in de publicatie, voeg dan ook het nummer van de afbeelding (indien aanwezig) mee. Noteer dit zoals in de publicatie vermeldt staat.<br> *(vb: fig. 1, Afb. 1, nr. 1)*<br>
-Indien het collectiestuk deeluitmaakt van een veilingscatalogus, vul ook dit nummer aan. *(vb: p. 35, nr. 125)*
+Indien er een afbeelding van het collectiestuk aanwezig is in de publicatie, voeg dan ook het nummer van de afbeelding (indien aanwezig) aan. Noteer dit zoals het in de publicatie staat vermeldt.<br> *(vb: fig. 1, Afb. 1, nr. 1)*<br>
+Indien het collectiestuk deeluitmaakt van een veilingscatalogus, vul ook het veilingnummer aan. *(vb: p. 35, nr. 125)*
 
 ### **2. De toe te voegen documentatie moet nog aangevuld worden in de bibliotheekcatalogus van Axiell**
 
@@ -78,15 +78,15 @@ Als de publicatie aanwezig is in de bibliotheek, vul dan bij signatuur de plaats
 ![image info](images/documentatie4.png)
 
 Klik bovenaan de fiche op de diskette om de documentatiefiche op te slaan en klik het werk aan in de tabel om het toe te voegen aan het record.
-Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:<br>
+Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
 - Enkele pagina: p. X<br>
 - Meerdere pagina's (oplopend): p. X-X<br>
-*(vb: p. 487 of p. 15-18)*<br>
-- Meerdere pagina's: p. X, p. X-X<br>
+*(vb: p. 15-18)*<br>
+- Meerdere pagina's: p. X, p. X<br>
 *(vb: p. 38, p. 96-97, p. 158)*
 
-Indien er een afbeelding van het collectiestuk aanwezig is in de publicatie, voeg dan ook het nummer van de afbeelding (indien aanwezig) mee. Noteer dit zoals in de publicatie vermeldt staat. <br>*(vb: fig. 1, Afb. 1, nr. 1)*<br>
-Indien het collectiestuk deeluitmaakt van een veilingscatalogus, vul ook dit nummer aan. *(vb: p. 35, nr. 125)*
+Indien er een afbeelding van het collectiestuk aanwezig is in de publicatie, voeg dan ook het nummer van de afbeelding (indien aanwezig) aan. Noteer dit zoals het in de publicatie staat vermeldt.<br> *(vb: fig. 1, Afb. 1, nr. 1)*<br>
+Indien het collectiestuk deeluitmaakt van een veilingscatalogus, vul ook het veilingnummer aan. *(vb: p. 35, nr. 125)*
 
 
 
