@@ -28,7 +28,7 @@ Bij een publicatie in een boek vullen we volgende gegevens aan onder documentati
 | Veld           | Inhoud                                                                                                                                                                           |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Titel          | Exacte titel van het werk                                                                                                                                                        |
-| Auteur(s)      | Achternaam, Voornaam                                                                                                                                                             |
+| Auteur(s) + rol| Achternaam, Voornaam + auteur                                                                                                                                                    |
 | Signatuur      | Standplaatscode WISE (indien aanwezig)                                                                                                                                           |
 | Materiaalsoort | Keuze uit:<br> - boek<br> - jaarboek<br> - brochure<br> - tentoonstellingscatalogus<br> - veilingscatalogus<br> - documentatiemap<br> - thesis                                   |
 | Pagina         | Paginanummer(s) waar het collectiestuk voorkomt                                                                                                                                  |
@@ -138,5 +138,36 @@ Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
 *(vb: p. 15-18)*<br>
 
 ## **3. Artikels uit Boek/Tijdschrift/Krant**
+
+| Veld                | Inhoud                                                                                                                                                                           |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Titel               | Exacte titel van het artikel                                                                                                                                                     |
+| Auteur(s) + rol     | Achternaam, Voornaam + auteur                                                                                                                                                    |
+| Bron Titel          | titel van het werk waarin het artikel is opgenomen                                                                                                                               |
+| Bron Materiaalsoort | Keuze uit:<br> - boek<br> - jaarboek<br> - brochure<br> - tentoonstellingscatalogus<br> - veilingscatalogus<br> - documentatiemap<br> - thesis                                   |
+| Bron Pagina         | Paginanummer(s) van het artikel in het boek/tijdschrift                                                                                                                          |
+| Signatuur           | Standplaatscode WISE (indien aanwezig)                                                                                                                                           |
+| Materiaalsoort      | artikel                                                                                                                                                                          |
+| Pagina              | Paginanummer(s) waar het collectiestuk voorkomt                                                                                                                                  |
+
+### **3.1 Het werk zit reeds in de bibliotheekcatalogus van Axiell**
+
+Wanneer je de titel intypt krijg je een lijst met opties. Staat het werk reeds hiertussen, klik dit aan. Automatisch worden de velden Auteur en Signatuur aangevuld. 
+
+![image info](images/documentatie.png)
+
+Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
+- Enkele pagina: p. X<br>
+- Meerdere pagina's (oplopend): p. X-X<br>
+*(vb: p. 15-18)*<br>
+
+### **3.2 Het werk moet aangevuld worden in de bibliotheekcatalogus van Axiell**
+
+- **Titel**:<br>
+Vul de exacte titel van het artikel aan in het veldje *titel*.
+
+Wanneer je klinkt op een ander veld zal, gezien de publicatie nog niet aanwezig is in de bibliotheekcatalogus van Axiell, er een pop-up venster verschijnen. Kies in de rechterkolom voor **Aanmaken in Tijdschriften** en klik op **Creëer en bewerk link** 
+
+![image info](images/documentatie6.png)
 
 
