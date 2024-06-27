@@ -123,7 +123,7 @@ Vul de naam van het tijdschrift/krant aan in het veldje *titel*. Indien het tijd
 
 Wanneer je klinkt op een ander veld zal, gezien de publicatie nog niet aanwezig is in de bibliotheekcatalogus van Axiell, er een pop-up venster verschijnen. Kies in de rechterkolom voor **Aanmaken in Tijdschriften** en klik op **Creëer en bewerk link** 
 
-![image info](images/documentatie2.png)
+![image info](images/documentatie5.png)
 
 - **Materiaalsoort**:<br>
 Kies voor de correcte optie uit het dropdown menu (tijdschrift of krant).
