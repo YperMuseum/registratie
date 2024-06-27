@@ -51,7 +51,8 @@ Indien het collectiestuk deeluitmaakt van een veilingscatalogus, vul ook het vei
 
 ### **2. De toe te voegen documentatie moet nog aangevuld worden in de bibliotheekcatalogus van Axiell**
 
-Zet de volledige titel in het veldje *titel*. <br>
+Zet de volledige titel van het werk in het veldje *titel*. <br>
+Voor veilingcatalogi en jaarboeken zijn er vaste structuren:
 
 ***Veilingcatalogus***: <br>
 Noteer de titel als volgt: 'Veilingcatalogus Naam Veilinghuis Datum Veiling (DD-MM-YYYY)' *(vb: Veilingcatalogus Marc Van de Wiele 6-7/10/2006)* 
@@ -68,7 +69,7 @@ Vul in de documentatiefiche de volgende velden verder aan:
 Kies voor de correcte optie uit het dropdown menu.
 
 - **Auteur**:<br>
-Vul de auteur aan (achternaam, voornaam). Indien de auteur nog niet aanwezig is in de personendatabank van Adlib zal er een pop-up venster verschijnen. Klik in de rechterkolom op **Accepteer link** en selecteer de persoon in de tabel om deze toe te voegen. 
+Vul de auteur aan (achternaam, voornaam). Indien de auteur nog niet aanwezig is in de personendatabank van Adlib zal er een pop-up venster verschijnen. Klik in de rechterkolom op **Accepteer link** en selecteer de persoon in de tabel om deze toe te voegen. Vul bij auteur aan bij het veldje 'rol auteur'.
 
 - **Signatuur**:<br>
 Als de publicatie aanwezig is in de bibliotheek, vul dan bij signatuur de plaatscode uit WISE aan. Boeken uit de bibliotheek van het Yper Museum worden altijd voorafgegaan van MS, boeken uit de bibliotheek van het In Flanders Fields Museum worden voorafgegaan van MI.
