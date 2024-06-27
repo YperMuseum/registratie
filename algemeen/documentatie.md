@@ -7,15 +7,10 @@ nav_order: 5
 
 # **Documentatie**
 
-Indien het collectiestuk voorkomt of besproken wordt in een publicatie vullen we deze aan onder het tabblad Documentatie. We vullen volgende zaken aan:
-
-| Veld           | Inhoud                                                                                                                                                                                     |
-|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Titel          | Exacte titel van het werk                                                                                                                                                                  |
-| Auteur(s)      | Achternaam, Voornaam                                                                                                                                                                       |
-| Signatuur      | Standplaatscode WISE (indien aanwezig)                                                                                                                                                     |
-| Materiaalsoort | Keuze uit:<br> - boek<br> - tijdschrift<br> - jaarboek<br> - artikel<br> - brochure<br> - krant<br> - tentoonstellingscatalogus<br> - veilingscatalogus<br> - documentatiemap<br> - thesis |
-| Pagina         | Paginanummer(s) waar het collectiestuk voorkomt                                                                                                                                            |
+Indien het collectiestuk voorkomt of besproken wordt in een publicatie vullen we deze aan onder het tabblad Documentatie. Er wordt een onderscheid gemaakt tussen:<br>
+- Boeken<br>
+- Tijdschriften/kranten<br>
+- Artikels uit een boek/tijdschrift/krant<br>
 
 <details open markdown="block">
   <summary>
@@ -26,7 +21,19 @@ Indien het collectiestuk voorkomt of besproken wordt in een publicatie vullen we
 {:toc}
 </details>
 
-## **1. De toe te voegen documentatie zit reeds in de bibliotheekcatalogus van Axiell**
+## **Boeken**
+
+Bij een publicatie in een boek vullen we volgende gegevens aan onder documentatie:
+
+| Veld           | Inhoud                                                                                                                                                                           |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Titel          | Exacte titel van het werk                                                                                                                                                        |
+| Auteur(s)      | Achternaam, Voornaam                                                                                                                                                             |
+| Signatuur      | Standplaatscode WISE (indien aanwezig)                                                                                                                                           |
+| Materiaalsoort | Keuze uit:<br> - boek<br> - jaarboek<br> - brochure<br> - tentoonstellingscatalogus<br> - veilingscatalogus<br> - documentatiemap<br> - thesis                                   |
+| Pagina         | Paginanummer(s) waar het collectiestuk voorkomt                                                                                                                                  |
+
+# **1. De toe te voegen documentatie zit reeds in de bibliotheekcatalogus van Axiell**
 
 Wanneer je de titel intypt krijg je een lijst met opties. Staat het werk reeds hiertussen, klik dit aan. Automatisch worden de velden Auteur en Signatuur aangevuld. 
 
@@ -42,7 +49,7 @@ Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
 Indien er een afbeelding van het collectiestuk aanwezig is in de publicatie, voeg dan ook het nummer van de afbeelding (indien aanwezig) mee. Noteer dit zoals in de publicatie vermeldt staat.<br> *(vb: fig. 1, Afb. 1, nr. 1)*<br>
 Indien het collectiestuk deeluitmaakt van een veilingscatalogus, vul ook dit nummer aan. *(vb: p. 35, nr. 125)*
 
-## **2. De toe te voegen documentatie moet nog aangevuld worden in de bibliotheekcatalogus van Axiell**
+# **2. De toe te voegen documentatie moet nog aangevuld worden in de bibliotheekcatalogus van Axiell**
 
 Zet de volledige titel in het veldje *titel*. <br>
 
