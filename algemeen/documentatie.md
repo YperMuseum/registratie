@@ -42,7 +42,7 @@ Wanneer je de titel intypt krijg je een lijst met opties. Staat het werk reeds h
 Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
 - Enkele pagina: p. X<br>
 - Meerdere pagina's (oplopend): p. X-X<br>
-*(vb: p. 487 of p. 15-18)*<br>
+*(vb: p. 15-18)*<br>
 - Meerdere pagina's: p. X, p. X-X<br>
 *(vb: p. 38, p. 96-97, p. 158)*
 
