@@ -73,7 +73,7 @@ Kies voor de correcte optie uit het dropdown menu.
 Vul de auteur aan (achternaam, voornaam). Indien de auteur nog niet aanwezig is in de personendatabank van Adlib zal er een pop-up venster verschijnen. Klik in de rechterkolom op **Accepteer link** en selecteer de persoon in de tabel om deze toe te voegen. Vul bij auteur aan bij het veldje 'rol auteur'.
 
 - **Signatuur**:<br>
-Als de publicatie aanwezig is in de bibliotheek van het In Flanders Fields Museum of Yper Museum, vul dan bij signatuur de plaatscode uit WISE aan. Boeken uit de bibliotheek van het Yper Museum worden altijd voorafgegaan van MS, boeken uit de bibliotheek van het In Flanders Fields Museum worden voorafgegaan van MI.
+Als de publicatie aanwezig is in de bibliotheek van het Yper Museum of In Flanders Fields Museum, vul dan bij signatuur de plaatscode uit WISE aan. Boeken uit de bibliotheek van het Yper Museum worden altijd voorafgegaan van MS, boeken uit de bibliotheek van het In Flanders Fields Museum worden voorafgegaan van MI.
 *(vb: MS IP 1332)*<br>
 
 ![image info](images/documentatie1.png)
@@ -129,7 +129,7 @@ Wanneer je klinkt op een ander veld zal, gezien de publicatie nog niet aanwezig 
 Kies voor de correcte optie uit het dropdown menu (tijdschrift of krant).
 
 - **Signatuur**:<br>
-Als de publicatie aanwezig is in de bibliotheek van het In Flanders Fields Museum of Yper Museum, vul dan bij signatuur de plaatscode uit WISE aan. Boeken uit de bibliotheek van het Yper Museum worden altijd voorafgegaan van MS, boeken uit de bibliotheek van het In Flanders Fields Museum worden voorafgegaan van MI.
+Als de publicatie aanwezig is in de bibliotheek van het Yper museum of het In Flanders Fields Museum, vul dan bij signatuur de plaatscode uit WISE aan. Boeken uit de bibliotheek van het Yper Museum worden altijd voorafgegaan van MS, boeken uit de bibliotheek van het In Flanders Fields Museum worden voorafgegaan van MI.
 *(vb: MS IP 1332)*<br>
 
 Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
