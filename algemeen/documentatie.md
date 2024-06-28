@@ -56,7 +56,7 @@ Zet de volledige titel van het werk in het veldje *titel*. Zit het werk in WISE,
 Voor veilingcatalogi en jaarboeken zijn er vaste structuren:
 
 ***Veilingcatalogus***: <br>
-Noteer de titel als volgt: 'Veilingcatalogus Naam Veilinghuis Datum Veiling (DD-MM-YYYY)' *(vb: Veilingcatalogus Marc Van de Wiele 6-7/10/2006)* 
+Noteer de titel als volgt: 'Veilingcatalogus Naam Veilinghuis Datum Veiling (DD*(-DD)*/MM/YYYY)' *(vb: Veilingcatalogus Marc Van de Wiele 6-7/10/2006)* 
 
 ***Jaarboek***: <br>
 Noteer de titel als volgt: 'Naam Museum Jaarboek Jaar (YYYY)' *(vb: In Flanders Fields Museum Jaarboek 2019)*<br>
