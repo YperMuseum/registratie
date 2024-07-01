@@ -21,21 +21,9 @@ Indien het collectiestuk voorkomt of besproken wordt in een publicatie vullen we
 {:toc}
 </details>
 
-## **1. Boeken**
+## A. Het werk is aanwezig in de bibliotheekcatalogus van Axiell
 
-Bij een publicatie in een boek vullen we volgende gegevens aan onder documentatie:
-
-| Veld           | Inhoud                                                                                                                                                                           |
-|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Titel          | Exacte titel van het werk                                                                                                                                                        |
-| Auteur(s) + rol| Achternaam, Voornaam + auteur                                                                                                                                                    |
-| Signatuur      | Standplaatscode WISE (indien aanwezig)                                                                                                                                           |
-| Materiaalsoort | Keuze uit:<br> - boek<br> - jaarboek<br> - brochure<br> - tentoonstellingscatalogus<br> - veilingscatalogus<br> - documentatiemap<br> - thesis                                   |
-| Pagina         | Paginanummer(s) waar het collectiestuk voorkomt                                                                                                                                  |
-
-### **1.1 Het werk zit reeds in de bibliotheekcatalogus van Axiell**
-
-Wanneer je de titel intypt krijg je een lijst met opties. Staat het werk reeds hiertussen, klik dit aan. Automatisch worden de velden Auteur en Signatuur aangevuld. 
+Wanneer je de titel intypt krijg je een lijst met opties. Staat het werk reeds hiertussen, klik dit aan. Automatisch worden de velden Auteur en Signatuur (indien aanwezig) aangevuld. 
 
 ![image info](images/documentatie.png)
 
@@ -47,9 +35,21 @@ Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
 *(vb: p. 38, p. 96-97, p. 158)*
 
 Indien er een afbeelding van het collectiestuk aanwezig is in de publicatie, voeg dan ook het nummer van de afbeelding (indien aanwezig) aan. Noteer dit zoals het in de publicatie staat vermeldt.<br> *(vb: fig. 1, Afb. 1, nr. 1)*<br>
-Indien het collectiestuk deeluitmaakt van een veilingscatalogus, vul ook het veilingnummer aan. *(vb: p. 35, nr. 125)*
+Indien het collectiestuk deeluitmaakt van een veilingscatalogus, vul ook het catalogusnummer aan. *(vb: p. 35, nr. 125)*
 
-### **1.2 Het werk moet aangevuld worden in de bibliotheekcatalogus van Axiell**
+## B. Het werk moet aangevuld worden in de bibliotheekcatalogus van Axiell
+
+**1. Boeken**
+
+Bij een publicatie in een boek vullen we volgende gegevens aan onder documentatie:
+
+| Veld           | Inhoud                                                                                                                                                                           |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Titel          | Exacte titel van het werk                                                                                                                                                        |
+| Auteur(s) + rol| Achternaam, Voornaam + auteur                                                                                                                                                    |
+| Signatuur      | Standplaatscode WISE (indien aanwezig)                                                                                                                                           |
+| Materiaalsoort | Keuze uit:<br> - boek<br> - jaarboek<br> - brochure<br> - tentoonstellingscatalogus<br> - veilingscatalogus<br> - documentatiemap<br> - thesis                                   |
+| Pagina         | Paginanummer(s) waar het collectiestuk voorkomt                                                                                                                                  |
 
 - **Titel**:<br>
 Zet de volledige titel van het werk in het veldje *titel*. Zit het werk in WISE, kopieer dan deze titel. Indien de titel start met een lidwoord, vul dit later afzonderlijk aan bij het veldje 'lidwoord'.<br>
@@ -104,19 +104,6 @@ Bij een publicatie in een tijdschrift/krant vullen we volgende gegevens aan onde
 | Materiaalsoort | Keuze uit:<br> - krant<br> - artikel<br>                                                                                                                                         |
 | Pagina         | Paginanummer(s) waar het collectiestuk voorkomt                                                                                                                                  |
 
-### **2.1 Het werk zit reeds in de bibliotheekcatalogus van Axiell**
-
-Wanneer je de titel intypt krijg je een lijst met opties. Staat het werk reeds hiertussen, klik dit aan. Automatisch worden de velden Auteur en Signatuur aangevuld. 
-
-![image info](images/documentatie.png)
-
-Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
-- Enkele pagina: p. X<br>
-- Meerdere pagina's (oplopend): p. X-X<br>
-*(vb: p. 15-18)*<br>
-
-### **2.2 Het werk moet aangevuld worden in de bibliotheekcatalogus van Axiell**
-
 - **Titel**:<br>
 Vul de naam van het tijdschrift/krant aan in het veldje *titel*. Indien het tijdschrift/de krant start met een lidwoord, vul dit later afzonderlijk aan bij het veldje 'lidwoord'. Dit doen we als volgt:<br>
 - Tijdschrift: Naam tijdschrift, jaargang, nummer<br>
@@ -152,19 +139,6 @@ Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
 | Signatuur           | Standplaatscode WISE (indien aanwezig)                                                                                                                                           |
 | Materiaalsoort      | artikel                                                                                                                                                                          |
 | Pagina              | Paginanummer(s) waar het collectiestuk voorkomt                                                                                                                                  |
-
-### **3.1 Het werk zit reeds in de bibliotheekcatalogus van Axiell**
-
-Wanneer je de titel intypt krijg je een lijst met opties. Staat het werk reeds hiertussen, klik dit aan. Automatisch worden de velden Auteur en Signatuur aangevuld. 
-
-![image info](images/documentatie.png)
-
-Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
-- Enkele pagina: p. X<br>
-- Meerdere pagina's (oplopend): p. X-X<br>
-*(vb: p. 15-18)*<br>
-
-### **3.2 Het werk moet aangevuld worden in de bibliotheekcatalogus van Axiell**
 
 - **Titel**:<br>
 Vul de exacte titel van het artikel aan in het veldje *titel*.
