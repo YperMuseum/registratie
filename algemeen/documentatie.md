@@ -142,7 +142,6 @@ Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
 | Bron Jaargang | Nummer jaargang                                   |
 | Bron Aflevering | Nummer aflevering                                   |
 | Bron jaar | Jaartal (YYYY)                                   |
-
 | Signatuur           | Standplaatscode WISE (indien aanwezig)                                                                                                                                           |
 | Materiaalsoort      | artikel                                                                                                                                                                          |
 | Pagina              | Paginanummer(s) waar het collectiestuk voorkomt                                                                                                                                  |
