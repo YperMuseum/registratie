@@ -39,7 +39,7 @@ Indien het collectiestuk deeluitmaakt van een veilingscatalogus, vul ook het cat
 
 ## B. Het werk moet aangevuld worden in de bibliotheekcatalogus van Axiell
 
-**1. Boeken**
+### **1. Boeken**
 
 Bij een publicatie in een boek vullen we volgende gegevens aan onder documentatie:
 
