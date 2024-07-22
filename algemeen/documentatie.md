@@ -63,7 +63,7 @@ Noteer de titel als volgt: 'Veilingcatalogus Naam Veilinghuis Datum Veiling (DD(
 Noteer de titel als volgt: 'Naam Museum Jaarboek Jaar (YYYY)' *(vb: In Flanders Fields Museum Jaarboek 2019)*<br>
 
 ***Documentatiemap***: <br>
-Noteer de titel als volgt: 'Documentatiemap Voornaam Achternaam' *(vb: Documentatiemap Pierre de Coninck)*<br>
+Noteer de titel als volgt: 'Documentatiemap Achternaam, Voornaam' *(vb: Documentatiemap de Coninck, Pierre)*<br>
 
 Wanneer je klikt op een volgend veld zal, gezien de publicatie nog niet aanwezig is in de bibliotheekcatalogus van Axiell, er een pop-up venster verschijnen. Kies in de rechterkolom voor **Aanmaken in Boeken** en klik op **Creëer en bewerk link** 
 
