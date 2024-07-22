@@ -61,7 +61,6 @@ Noteer de titel als volgt: 'Veilingcatalogus, Naam Veilinghuis Datum Veiling (DD
 
 ***Jaarboek***: <br>
 Noteer de titel als volgt: 'Naam Museum, Jaarboek Jaar (YYYY)' *(vb: In Flanders Fields Museum, Jaarboek 2019)*<br>
-Bij de oudere magazines wordt volgende notatie gebruikt: 'In Flanders Fields Magazine, maand YYYY' *(vb: In Flanders Fields Magazine, Januari 1999)*
 
 ***Documentatiemap***: <br>
 Noteer de titel als volgt: 'Documentatiemap Achternaam, Voornaam' *(vb: Documentatiemap de Coninck, Pierre)*<br>
@@ -112,6 +111,8 @@ Vul de naam van het tijdschrift/krant aan in het veldje *titel*. Indien het tijd
 *(vb: De Boezingenaar, jg. 32, nr. 3)*<br>
 - Krant: Naam krant, datum uitgave (DD-MM-YYYY)<br>
 *(vb: Le XXe siècle, 05-03-1918)*<br>
+
+Bij de In Flanders Fields magazines wordt volgende notatie gebruikt: 'In Flanders Fields Magazine, maand YYYY' *(vb: In Flanders Fields Magazine, Januari 1999)*
 
 Wanneer je klikt op een volgend veld zal, gezien de publicatie nog niet aanwezig is in de bibliotheekcatalogus van Axiell, er een pop-up venster verschijnen. Kies in de rechterkolom voor **Aanmaken in Tijdschriften** en klik op **Creëer en bewerk link** 
 
