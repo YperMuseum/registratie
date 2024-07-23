@@ -65,6 +65,9 @@ Noteer de titel als volgt: 'Naam Museum Jaarboek Jaar (YYYY)' *(vb: In Flanders 
 ***Documentatiemap***: <br>
 Noteer de titel als volgt: 'Documentatiemap Achternaam, Voornaam' *(vb: Documentatiemap de Coninck, Pierre)*<br>
 
+***Tentoonstellingscatalogus***: <br>
+Noteer de titel als volgt: 'Catalogus Naam Museum Naam Tentoonstelling Jaartal' 
+
 Wanneer je klikt op een volgend veld zal, gezien de publicatie nog niet aanwezig is in de bibliotheekcatalogus van Axiell, er een pop-up venster verschijnen. Kies in de rechterkolom voor **Aanmaken in Boeken** en klik op **Creëer en bewerk link** 
 
 ![image info](images/documentatie2.png)
