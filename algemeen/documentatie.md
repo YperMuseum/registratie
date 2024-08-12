@@ -48,7 +48,7 @@ Bij een publicatie in een boek vullen we volgende gegevens aan onder documentati
 | Titel          | Exacte titel van het werk                                                                                                                                                        |
 | Auteur(s) + rol| Achternaam, Voornaam + auteur                                                                                                                                                    |
 | Signatuur      | Standplaatscode WISE (indien aanwezig)                                                                                                                                           |
-| Materiaalsoort | Keuze uit:<br> - boek<br> - jaarboek<br> - brochure<br> - tentoonstellingscatalogus<br> - veilingscatalogus<br> - documentatiemap<br> - thesis                                   |
+| Materiaalsoort | Keuze uit:<br> - boek<br> - jaarboek<br> - brochure<br> - tentoonstellingscatalogus<br> - veilingscatalogus<br> - documentatiemap<br> - thesis<br> - inventaris                  |
 | Pagina         | Paginanummer(s) waar het collectiestuk voorkomt                                                                                                                                  |
 
 - **Titel**:<br>
