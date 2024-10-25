@@ -49,7 +49,7 @@ nav_order: 1
 ## **Objectnaam**
 
 Noteer, indien mogelijk, met één term om welk soort object het gaat. Een objectnaam wordt meestal vanuit een functionele benadering aan het object toegekend.
-Zo is een "spaarpot" een objectnaam voor een spaarvarken en niet "varken", wat een Afgebeeld concept voor het object is.
+Zo is een "spaarpot" een objectnaam voor een spaarvarken en niet "varken", wat het afgebeeld onderwerp van het object is.
 
 Schrijfinstructies:
 - gebruik geen hoofdletter
