@@ -38,6 +38,14 @@ nav_order: 1
 | YMDB      | Digital Born Yper Museum           | YMDB000001     | YMDB000001.01     |
 | MM        | Objecten Merghelynck Museum        | MM 000001      | MM 000001.01      |
 
+## **Instellingsnaam**
+
+- 	Yper Museum
+- 	Stedelijke Musea Ieper
+- 	Onderwijsmuseum Ieper
+- 	Museum Godshuis Belle
+- 	Hotel-Museum Arthur Merghelynck
+
 ## **Objectnaam**
 
 Noteer, indien mogelijk, met één term om welk soort object het gaat. Een objectnaam wordt meestal vanuit een functionele benadering aan het object toegekend.
