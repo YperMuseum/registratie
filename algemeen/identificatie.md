@@ -60,6 +60,8 @@ Schrijfinstructies:
 Thesaurus:
 Objectnamen komen uit een achterliggende lijst gestructureerde termen. Gebruik een term ontleend aan een publiek toegankelijke bron of standaard, zoals bv. AAT. 
 
+vb: insigne
+
 ## **Titel**
 
 Noteer hier de originele, populaire en/of toegekende titel.
