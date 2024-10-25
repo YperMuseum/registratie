@@ -80,4 +80,6 @@ vb: Meerman met dubbele staart
 
 Noteer de korte beschrijving van het object. Gebruik gewone zinsbouw en leestekens. Vermijd zo veel mogelijk afkortingen en zorg ervoor dat je tekst door anderen begrepen wordt. Informatie uit verdiepend onderzoek kan hier toegevoegd worden.
 
+Indien er reeds een beschrijving aanwezig is bij het record, ontdubbel dan de beschrijving en vul aan met de nieuwe beschrijving, de datum van toevoeging van de beschrijving, alsook de initialen van de beschrijver. De beschrijving met de meest recente datum wordt online gepubliceerd.
+
 vb: Gekroonde meerman met een dubbele staart. Mogelijk is het Triton, de koning van de meermannen. De meerman is gekleed en houdt de uiteinden van elke staart vast met zijn handen. Op de achterzijde een rasterpatroon en een deel van de speld. Meermannen komen al voor in de oudheid en middeleeuwse bestiaria vermelden ze steevast als deel van de fabelachtige wezens die volgens het boek echt bestaan.
