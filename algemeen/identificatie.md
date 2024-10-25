@@ -60,7 +60,7 @@ Schrijfinstructies:
 Thesaurus:
 Objectnamen komen uit een achterliggende lijst gestructureerde termen. Gebruik een term ontleend aan een publiek toegankelijke bron of standaard, zoals bv. AAT. 
 
-vb: insigne
+*vb: insigne*
 
 ## **Titel**
 
@@ -74,7 +74,7 @@ Schrijfinstructies:
 - gebruik geen inleidend lidwoord, tenzij het een onderdeel is van de originele titel
 - gebruik geen punt op het einde van de titel
 
-vb: Meerman met dubbele staart
+*vb: Meerman met dubbele staart*
 
 ## **Beschrijving**
 
@@ -82,4 +82,4 @@ Noteer de korte beschrijving van het object. Gebruik gewone zinsbouw en leesteke
 
 Indien er reeds een beschrijving aanwezig is bij het record, ontdubbel dan de beschrijving en vul aan met de nieuwe beschrijving, de datum van toevoeging van de beschrijving, alsook de initialen van de beschrijver. De beschrijving met de meest recente datum wordt online gepubliceerd.
 
-vb: Gekroonde meerman met een dubbele staart. Mogelijk is het Triton, de koning van de meermannen. De meerman is gekleed en houdt de uiteinden van elke staart vast met zijn handen. Op de achterzijde een rasterpatroon en een deel van de speld. Meermannen komen al voor in de oudheid en middeleeuwse bestiaria vermelden ze steevast als deel van de fabelachtige wezens die volgens het boek echt bestaan.
+*vb: Gekroonde meerman met een dubbele staart. Mogelijk is het Triton, de koning van de meermannen. De meerman is gekleed en houdt de uiteinden van elke staart vast met zijn handen. Op de achterzijde een rasterpatroon en een deel van de speld. Meermannen komen al voor in de oudheid en middeleeuwse bestiaria vermelden ze steevast als deel van de fabelachtige wezens die volgens het boek echt bestaan.*
