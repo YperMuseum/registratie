@@ -24,8 +24,19 @@ Let wel: een groep vervaardigers is geen school of stijl! De school of stijl ver
 
 Schrijfinstructies:
 - Achternaam, Naam
+- Achternaam, Initiaal.
+- Initialen (*vb: J.F.*)
 
+## **Kwalitifcatie Vervaardiger**
 
+Gebruik dit veld wanneer de toeschrijving onzeker is, betwist wordt, wanneer er een eerdere toeschrijving is of wanneer de toeschrijving verdere verduidelijking vraagt.
+
+Schrijfinstructie:
+- leerling van
+- school van
+- naar voorbeeld van
+- toegeschreven aan
+- atelier van
 
 ## **Rol Vervaardiger**
 
