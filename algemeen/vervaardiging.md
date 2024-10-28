@@ -31,7 +31,7 @@ Schrijfinstructies:
 
 Gebruik dit veld wanneer de toeschrijving onzeker is, betwist wordt, wanneer er een eerdere toeschrijving is of wanneer de toeschrijving verdere verduidelijking vraagt.
 
-Schrijfinstructie:
+Schrijfinstructies:
 - leerling van
 - school van
 - naar voorbeeld van
