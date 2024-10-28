@@ -78,8 +78,16 @@ Schrijfinstructies:
 
 ## **Beschrijving**
 
-Noteer de korte beschrijving van het object. Gebruik gewone zinsbouw en leestekens. Vermijd zo veel mogelijk afkortingen en zorg ervoor dat je tekst door anderen begrepen wordt. Informatie uit verdiepend onderzoek kan hier toegevoegd worden.
+Noteer de korte beschrijving van het object. Informatie uit verdiepend onderzoek kan hier toegevoegd worden.
+
+Schrijfinstructies:
+- gebruik gewone zinsbouw en leestekens.
+- vul de initialen van de beschrijver aan bij beschrijving.naam
+- vul de datum van de beschrijving aan bij beschrijving.datum
+
+*vb: Gekroonde meerman met een dubbele staart. Mogelijk is het Triton, de koning van de meermannen. De meerman is gekleed en houdt de uiteinden van elke staart vast met zijn handen. Op de achterzijde een rasterpatroon en een deel van de speld. Meermannen komen al voor in de oudheid en middeleeuwse bestiaria vermelden ze steevast als deel van de fabelachtige wezens die volgens het boek echt bestaan.*
 
 Indien er reeds een beschrijving aanwezig is bij het record, ontdubbel dan de beschrijving en vul aan met de nieuwe beschrijving, de datum van toevoeging van de beschrijving, alsook de initialen van de beschrijver. De beschrijving met de meest recente datum wordt online gepubliceerd.
 
-*vb: Gekroonde meerman met een dubbele staart. Mogelijk is het Triton, de koning van de meermannen. De meerman is gekleed en houdt de uiteinden van elke staart vast met zijn handen. Op de achterzijde een rasterpatroon en een deel van de speld. Meermannen komen al voor in de oudheid en middeleeuwse bestiaria vermelden ze steevast als deel van de fabelachtige wezens die volgens het boek echt bestaan.*
+*vb:*
+![image](https://github.com/user-attachments/assets/76e54a9e-72e9-4f7f-96b0-564e9f6a4f68)
