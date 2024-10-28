@@ -32,7 +32,7 @@ Schrijfinstructies:
 Gebruik dit veld wanneer de toeschrijving onzeker is, betwist wordt, wanneer er een eerdere toeschrijving is of wanneer de toeschrijving verdere verduidelijking vraagt.
 
 Schrijfinstructies:
-- gebruik een van volgende opties:
+- gebruik één van volgende opties:
   - leerling van
   - school van
   - naar voorbeeld van
