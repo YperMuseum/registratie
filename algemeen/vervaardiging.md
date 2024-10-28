@@ -40,6 +40,9 @@ Schrijfinstructies:
   - atelier van
   - vermoedelijk van
 
+*vb:*
+![image](https://github.com/user-attachments/assets/c366a87e-9f4e-40a0-8d7f-9267fe734030)
+
 ## **Rol Vervaardiger**
 
 
