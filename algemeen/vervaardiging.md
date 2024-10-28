@@ -27,16 +27,18 @@ Schrijfinstructies:
 - Achternaam, Initiaal.
 - Initialen (*vb: J.F.*)
 
-## **Kwalitifcatie Vervaardiger**
+## **Kwalificatie Vervaardiger**
 
 Gebruik dit veld wanneer de toeschrijving onzeker is, betwist wordt, wanneer er een eerdere toeschrijving is of wanneer de toeschrijving verdere verduidelijking vraagt.
 
 Schrijfinstructies:
-- leerling van
-- school van
-- naar voorbeeld van
-- toegeschreven aan
-- atelier van
+- gebruik een van volgende opties:
+  - leerling van
+  - school van
+  - naar voorbeeld van
+  - toegeschreven aan
+  - atelier van
+  - vermoedelijk van
 
 ## **Rol Vervaardiger**
 
