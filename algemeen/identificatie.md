@@ -73,6 +73,8 @@ Schrijfinstructies:
 - begin de titel met een hoofdletter, tenzij anders vermeld op het object
 - gebruik geen inleidend lidwoord, tenzij het een onderdeel is van de originele titel
 - gebruik geen punt op het einde van de titel
+- gebruik geen meerdere zinnen
+- maak de titel niet te lang, een goede richtlijn is 10 a 15 woorden
 
 *vb: Meerman met dubbele staart*
 
