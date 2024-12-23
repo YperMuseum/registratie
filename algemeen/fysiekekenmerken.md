@@ -31,8 +31,8 @@ nav_order: 3
 | Precisie       | Noteer hier de mate van exactheid voor een bepaalde afmeting. Gebruik enkelvoud, vermijd opsommingen en leestekens. Noteer zonder hoofdletters. <br> Als dit veld niet wordt ingevuld, wordt ervan uitgegaan dat de geregistreerde afmeting accuraat is tot op de eenheid die gebruikt is. <br> - circa |
 | Bijzonderheden | Aanvullende informatie (vb. aantal inch vh kaliber)                                                                                                                                                                                                                                           |
 
- * Gebruik dikte bij vlakke objecten zoals een schilderij <br>
-** Gewicht kan bij uitzondering aangevuld worden als de informatie relevant is voor de praktische werking <br>
-*** Kaliber wordt enkel aangevuld bij wapens <br>
+-* Gebruik dikte bij vlakke objecten zoals een schilderij <br>
+-** Gewicht kan bij uitzondering aangevuld worden als de informatie relevant is voor de praktische werking <br>
+-*** Kaliber wordt enkel aangevuld bij wapens <br>
 
 
