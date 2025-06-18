@@ -82,29 +82,21 @@ Bij een publicatie in een tijdschrift/krant vullen we volgende gegevens aan onde
 | Materiaalsoort | Keuze uit:<br> - krant<br> - artikel<br>                                                                                                                                         |
 | Pagina         | Paginanummer(s) waar het collectiestuk voorkomt                                                                                                                                  |
 
-- **Titel**:<br>
+**Titel**:<br>
 Vul de naam van het tijdschrift/krant aan in het veldje *titel*. Indien het tijdschrift/de krant start met een lidwoord, vul dit later afzonderlijk aan bij het veldje 'lidwoord'. Dit doen we als volgt:<br>
-- Tijdschrift: Naam tijdschrift, jaargang, nummer<br>
-*(vb: De Boezingenaar, jg. 32, nr. 3)*<br>
-- Krant: Naam krant, datum uitgave (DD-MM-YYYY)<br>
-*(vb: Le XXe siècle, 05-03-1918)*<br>
+- ***Tijdschrift***: <br>
+Naam tijdschrift, jaargang, nummer *(vb: De Boezingenaar, jg. 32, nr. 3)*<br>
+- ***Krant***: <br>
+Naam krant, datum uitgave (DD-MM-YYYY) *(vb: Le XXe siècle, 05-03-1918)*<br>
 
 Bij de In Flanders Fields magazines wordt volgende notatie gebruikt: 'In Flanders Fields Magazine, maand YYYY' *(vb: In Flanders Fields Magazine, Januari 1999)*
 
-- **Materiaalsoort**:<br>
+**Materiaalsoort**:<br>
 Kies voor de correcte optie uit het dropdown menu (tijdschrift of krant).
 
-- **Signatuur**:<br>
+**Signatuur**:<br>
 Als de publicatie aanwezig is in de bibliotheek van het Yper museum of het In Flanders Fields Museum, vul dan bij signatuur de plaatscode uit WISE aan. Boeken uit de bibliotheek van het Yper Museum worden altijd voorafgegaan van MS, boeken uit de bibliotheek van het In Flanders Fields Museum worden voorafgegaan van MI.
 *(vb: MS IP 1332)*<br>
-
-Klik bovenaan de fiche op de diskette om de documentatiefiche op te slaan en klik het werk aan in de tabel om het toe te voegen aan het record.
-Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
-- Enkele pagina: p. X<br>
-- Meerdere pagina's (oplopend): p. X-X<br>
-*(vb: p. 15-18)*<br>
-- Meerdere pagina's: p. X, p. X<br>
-*(vb: p. 38, p. 96-97, p. 158)*
 
 ## **3. Artikels uit Boek/Tijdschrift/Krant**
 
@@ -121,25 +113,25 @@ Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
 | Materiaalsoort      | artikel                                                                                                                                                                          |
 | Pagina              | Paginanummer(s) waar het collectiestuk voorkomt                                                                                                                                  |
 
-- **Titel**:<br>
+**Titel**:<br>
 Vul de exacte titel van het artikel aan in het veldje *titel*.
 
-- **Materiaalsoort**:<br>
+**Materiaalsoort**:<br>
 Kies voor materiaalsoort artikel
 
-- **Auteur**:<br>
-Vul de auteur aan (achternaam, voornaam). Indien de auteur nog niet aanwezig is in de personendatabank van Adlib zal er een pop-up venster verschijnen. Klik in de rechterkolom op **Accepteer link** en selecteer de persoon in de tabel om deze toe te voegen. Vul auteur aan bij het veldje 'rol auteur'.
+**Auteur**:<br>
+Vul de auteur aan (achternaam, voornaam). Vul 'auteur' aan in het veld 'rol auteur'.
 
-- **Bron Titel**<br>
-Vul de exacte titel aan van de bron (boek, tijdschrift, krant) waar het artikel in voorkomt. Wanneer deze nog niet aanwezig is in de bibliotheekcatalogus, wordt deze opnieuw toegevoegd (zie bovenstaande stappen voor boek/tijdschrift/krant)
+**Bron Titel**<br>
+Vul de exacte titel aan van de bron (boek, tijdschrift, krant) waar het artikel in voorkomt. Wanneer deze nog niet aanwezig is in de bibliotheekcatalogus, wordt deze opnieuw toegevoegd (zie bovenstaande stappen voor boek of tijdschrift/krant)
 
-- **Bron Materiaalsoort**<br>
+**Bron Materiaalsoort**<br>
 Neem de materiaalsoort over zoals omschreven bij de bron
 
-- **Bron Jaar, jaargang, aflevering**<br>
+**Bron Jaar, jaargang, aflevering**<br>
 Vul het nummer van de jaargang, aflevering (indien van toepassing) en het jaar aan.
 
-- **Signatuur**<br>
+**Signatuur**<br>
 Indien het boek/tijschrift/krant aanwezig is in Wise, vul dan bij signatuur de plaatscode uit WISE aan.
 
 
