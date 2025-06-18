@@ -71,10 +71,6 @@ Vul de auteur aan (achternaam, voornaam). Vul 'auteur' in bij het veld 'rol aute
 Als de publicatie aanwezig is in de bibliotheek van het Yper Museum of In Flanders Fields Museum, vul dan bij signatuur de plaatscode uit WISE aan. Boeken uit de bibliotheek van het Yper Museum worden altijd voorafgegaan van MS, boeken uit de bibliotheek van het In Flanders Fields Museum worden voorafgegaan van MI.
 *(vb: MS IP 1332)*<br>
 
-![image info](images/documentatie1.png)
-![image info](images/documentatie4.png)
-
-
 ## **2. Tijdschriften/Kranten**
 
 Bij een publicatie in een tijdschrift/krant vullen we volgende gegevens aan onder documentatie:
