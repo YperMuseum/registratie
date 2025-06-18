@@ -12,17 +12,6 @@ Indien het collectiestuk voorkomt of besproken wordt in een publicatie vullen we
 - Tijdschriften/kranten<br>
 - Artikels uit een boek/tijdschrift/krant<br>
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
-## A. Het werk is aanwezig in de bibliotheekcatalogus van Axiell
-
 Wanneer je de titel intypt krijg je een lijst met opties. Staat het werk reeds hiertussen, klik dit aan. Automatisch worden de velden Auteur en Signatuur (indien aanwezig) aangevuld. 
 
 ![image info](images/documentatie.png)
@@ -37,7 +26,14 @@ Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
 Indien er een afbeelding van het collectiestuk aanwezig is in de publicatie, voeg dan ook het nummer van de afbeelding (indien aanwezig) aan. Noteer dit zoals het in de publicatie staat vermeldt.<br> *(vb: fig. 1, Afb. 1, nr. 1)*<br>
 Indien het collectiestuk deeluitmaakt van een veilingscatalogus, vul ook het catalogusnummer aan. *(vb: p. 35, nr. 125)*
 
-## B. Het werk moet aangevuld worden in de bibliotheekcatalogus van Axiell
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## **1. Boeken**
 
