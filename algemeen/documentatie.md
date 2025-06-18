@@ -44,31 +44,30 @@ Bij een publicatie in een boek vullen we volgende gegevens aan onder documentati
 | Materiaalsoort | Keuze uit:<br> - boek<br> - jaarboek<br> - brochure<br> - tentoonstellingscatalogus<br> - veilingscatalogus<br> - documentatiemap<br> - thesis<br> - inventaris                  |
 | Pagina         | Paginanummer(s) waar het collectiestuk voorkomt                                                                                                                                  |
 
-- **Titel**:<br>
+**Titel**:<br>
 Zet de volledige titel van het werk in het veldje *titel*. Is het werk aanwezig in WISE, kopieer dan deze titel. Indien de titel start met een lidwoord, vul dit later afzonderlijk aan bij het veldje 'lidwoord'.<br>
 
 Voor veilingcatalogi en jaarboeken zijn er vaste structuren:
 
-***Veilingcatalogus***: <br>
+- ***Veilingcatalogus***: <br>
 Noteer de titel als volgt: 'Veilingcatalogus Naam Veilinghuis Datum Veiling (DD(-DD)/MM/YYYY)' *(vb: Veilingcatalogus Marc Van de Wiele 6-7/10/2006)* 
 
-***Jaarboek***: <br>
+- ***Jaarboek***: <br>
 Noteer de titel als volgt: 'Naam Museum Jaarboek Jaar (YYYY)' *(vb: In Flanders Fields Museum Jaarboek 2019)*<br>
 
-***Documentatiemap***: <br>
+- ***Documentatiemap***: <br>
 Noteer de titel als volgt: 'Documentatiemap Achternaam, Voornaam' *(vb: Documentatiemap de Coninck, Pierre)*<br>
 
-***Tentoonstellingscatalogus***: <br>
+- ***Tentoonstellingscatalogus***: <br>
 Noteer de titel als volgt: 'Catalogus Naam Museum Naam Tentoonstelling Jaartal' 
 
-Vul in de documentatiefiche de volgende velden verder aan:
-- **Materiaalsoort**:<br>
+**Materiaalsoort**:<br>
 Kies voor de correcte optie uit het dropdown menu.
 
-- **Auteur**:<br>
+**Auteur**:<br>
 Vul de auteur aan (achternaam, voornaam). Vul 'auteur' in bij het veld 'rol auteur'.
 
-- **Signatuur**:<br>
+**Signatuur**:<br>
 Als de publicatie aanwezig is in de bibliotheek van het Yper Museum of In Flanders Fields Museum, vul dan bij signatuur de plaatscode uit WISE aan. Boeken uit de bibliotheek van het Yper Museum worden altijd voorafgegaan van MS, boeken uit de bibliotheek van het In Flanders Fields Museum worden voorafgegaan van MI.
 *(vb: MS IP 1332)*<br>
 
