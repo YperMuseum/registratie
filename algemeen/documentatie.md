@@ -18,13 +18,10 @@ Enkel de pagina aanduiding moet nog meegegeven worden. Noteer deze als volgt:
 - Meerdere pagina's: p. X, p. X<br>
 *(vb: p. 38, p. 96-97, p. 158)*
 
-Indien er een afbeelding van het collectiestuk aanwezig is in de publicatie, voeg dan ook het nummer van de afbeelding (indien aanwezig) aan. Noteer dit zoals het in de publicatie staat vermeldt.<br> *(vb: fig. 1, Afb. 1, nr. 1)*<br>
+Indien er een afbeelding van het collectiestuk aanwezig is in de publicatie, voeg dan ook het nummer van de afbeelding (indien aanwezig) aan. Noteer dit zoals het in de publicatie staat vermeldt. *(vb: fig. 1, Afb. 1, nr. 1)*<br>
 Indien het collectiestuk deeluitmaakt van een veilingscatalogus, vul ook het catalogusnummer aan. *(vb: p. 35, nr. 125)*
 
-Indien het werk nog niet aanwezig is in Adlib, maak hiervoor een nieuw record aan. Er wordt een onderscheid gemaakt tussen:<br>
-- Boeken<br>
-- Tijdschriften/kranten<br>
-- Artikels uit een boek/tijdschrift/krant<br>
+Indien het werk nog niet aanwezig is in Adlib, maak hiervoor een nieuw record aan.<br>
 
 <details open markdown="block">
   <summary>
