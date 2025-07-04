@@ -98,6 +98,13 @@ Kies voor de correcte optie uit het dropdown menu (tijdschrift of krant).
 Als de publicatie aanwezig is in de bibliotheek van het Yper museum of het In Flanders Fields Museum, vul dan bij signatuur de plaatscode uit WISE aan. Boeken uit de bibliotheek van het Yper Museum worden altijd voorafgegaan van MS, boeken uit de bibliotheek van het In Flanders Fields Museum worden voorafgegaan van MI.
 *(vb: MS IP 1332)*<br>
 
+Enkel de pagina aanduiding moet nog meegegeven worden bij het record. Noteer deze als volgt:
+- Enkele pagina: p. X<br>
+- Meerdere pagina's (oplopend): p. X-X<br>
+*(vb: p. 15-18)*<br>
+- Meerdere pagina's: p. X, p. X<br>
+*(vb: p. 38, p. 96-97, p. 158)*
+
 ## **3. Artikels uit Boek/Tijdschrift/Krant**
 
 | Veld                | Inhoud                                                                                                                                                                           |
@@ -133,6 +140,13 @@ Vul het nummer van de jaargang, aflevering (indien van toepassing) en het jaar a
 
 **Signatuur**<br>
 Indien het boek/tijschrift/krant aanwezig is in Wise, vul dan bij signatuur de plaatscode uit WISE aan.
+
+Enkel de pagina aanduiding moet nog meegegeven worden bij het record. Noteer deze als volgt:
+- Enkele pagina: p. X<br>
+- Meerdere pagina's (oplopend): p. X-X<br>
+*(vb: p. 15-18)*<br>
+- Meerdere pagina's: p. X, p. X<br>
+*(vb: p. 38, p. 96-97, p. 158)*
 
 
 
