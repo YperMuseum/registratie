@@ -51,7 +51,7 @@ Zo is een "spaarpot" een objectnaam voor een spaarvarken en niet "varken", wat h
 Schrijfinstructies:
 - gebruik geen hoofdletter
 - gebruik geen meervouden
-- gebruik geen verkleinwoorden 
+- gebruik geen verkleinwoorden <br/>
 (tenzij de term enkel voorkomt met hoofdletter, als meervoud of als verkleinwoord)
 
 Thesaurus:
