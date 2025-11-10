@@ -41,9 +41,6 @@ nav_order: 1
 ## **Instellingsnaam**
 
 - 	Yper Museum
-- 	Stedelijke Musea Ieper
-- 	Onderwijsmuseum Ieper
-- 	Museum Godshuis Belle
 - 	Hotel-Museum Arthur Merghelynck
 
 ## **Objectnaam**
