@@ -55,7 +55,7 @@ Schrijfinstructies:
 (tenzij de term enkel voorkomt met hoofdletter, als meervoud of als verkleinwoord)
 
 Thesaurus:
-Objectnamen komen uit een achterliggende lijst gestructureerde termen. Gebruik een term ontleend aan een publiek toegankelijke bron of standaard, zoals bv. AAT. 
+Objectnamen komen uit een achterliggende lijst gestructureerde termen. Gebruik een term ontleend aan een publiek toegankelijke bron of standaard, zoals bv. AAT. Bekijk voor het toevoegen van objectnamen: [thesaurus > objectnaam](https://ypermuseum.github.io/registratie/thesaurus/objectnaam.html)
 
 *vb: insigne*
 
