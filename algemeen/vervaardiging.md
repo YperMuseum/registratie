@@ -46,6 +46,11 @@ Schrijfinstructies:
 
 ## **Rol Vervaardiger**
 
+Kies een **rol** uit de opties die beschikbaar zijn in de thesaurus.
+Indien één vervaardiger meerdere rollen vervult (bv. zowel ontwerper als drukker), dan wordt een occurence toegevoegd en de naam vervaardiger herhaalt met een andere rol.<br>
+
+vb: <img width="409" height="196" alt="image" src="https://github.com/user-attachments/assets/80bc8097-fe78-4633-aa02-5ce1f8036d83" />
+
 
 ## **Plaats Vervaardiging**
 
