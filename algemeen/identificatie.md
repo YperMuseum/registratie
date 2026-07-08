@@ -85,3 +85,10 @@ Schrijfinstructies:
 - vul de datum van de beschrijving aan bij beschrijving.datum
 
 Indien er reeds een beschrijving aanwezig is bij het record, ontdubbel dan de beschrijving en vul aan met de nieuwe beschrijving, de datum van toevoeging van de beschrijving, alsook de naam van de beschrijver. De beschrijving met de meest recente datum wordt online gepubliceerd.
+
+## **Record type**
+
+## **Deel & Aantal**
+<img width="1866" height="875" alt="image" src="https://github.com/user-attachments/assets/f3fd6457-675b-4b22-8627-49afd6a17cb5" />
+
+
